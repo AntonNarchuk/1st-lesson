@@ -1,0 +1,4 @@
+﻿  1st lesson.cpp
+C:\Users\karl_\source\repos\1st lesson\1st lesson\1st lesson.cpp(11,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\karl_\source\repos\1st lesson\1st lesson\1st lesson.cpp(65): error C4700: uninitialized local variable 'm' used
+C:\Users\karl_\source\repos\1st lesson\1st lesson\1st lesson.cpp(65): error C4700: uninitialized local variable 'n' used
